@@ -29,9 +29,3 @@
   <img width="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="60" alt="mysql logo"  />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/Mr-Thom/Mr-Thom/output/snake.svg" alt="Snake animation" />
-
-###
